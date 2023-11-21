@@ -1,8 +1,8 @@
 # Barbearia Alura
 
-Curso de Formação HTML e CSS (https://cursos.alura.com.br/formacao-html-e-css) do Módulo HTML & CSS
-
-Curso de Formação Fornt-End (https://cursos.alura.com.br/formacao-front-end) do Módulo HTML & CSS
+Cursos:
+* Curso de Formação HTML e CSS do Módulo HTML & CSS
+* Curso de Formação Fornt-End do Módulo HTML & CSS
 
 ## Apresentação
 
