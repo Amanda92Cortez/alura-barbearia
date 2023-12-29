@@ -6,7 +6,7 @@
 
 # :pushpin: Sobre do projeto
 - `Formação`: HTML e CSS - Módulo HTML e CSS (24/10/2022)
-- `Formação`: Front-End - Módulo HTML e CSS(07/10/2022)
+- `Formação`: Front-End - Módulo HTML e CSS (07/10/2022)
 </br></br>
 
 # :hammer: Funcionalidades do projeto
