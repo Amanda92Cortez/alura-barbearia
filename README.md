@@ -5,7 +5,8 @@
 </p>
 
 # :pushpin: Sobre do projeto
-- `Formação`: HTML e CSS do Módulo HTML & CSS
+- `Formação`: HTML e CSS (24/10/2022)
+- `Formação`: Front-End (07/10/2022)
 </br></br>
 
 # :hammer: Funcionalidades do projeto
@@ -26,9 +27,3 @@
 
 ## 📚Telas/Vídeos
 https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-8556-bf6500e6c576.mp4
-
-
-
-</br></br>
-<p>Data: 07 de Outubro de 2022 </p>
-<p>Data: 24 de Outubro de 2022 </p>
