@@ -2,7 +2,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Barbearia Alura</h1>
+<h1>Alura Barbearia</h1>
 
 ![Formação Front-End](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/409241da-ae39-4da7-8471-fa22d529a4b8)
 ![Formação HTML e CSS](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/cd99df5b-b241-43ee-8db9-6c94d19ac246)
