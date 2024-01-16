@@ -4,8 +4,9 @@
 
 <h1>Alura Barbearia</h1>
 
-![Formação Front-End](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/409241da-ae39-4da7-8471-fa22d529a4b8)
-![Formação HTML e CSS](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/cd99df5b-b241-43ee-8db9-6c94d19ac246)
+# :pushpin: Sobre do projeto
+- `Formação` Front End
+- `Formação` HTML e CSS
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Plataforma Barbearia Alura
