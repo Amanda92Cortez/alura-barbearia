@@ -4,9 +4,15 @@
 
 <h1>Alura Barbearia</h1>
 
-# :pushpin: Sobre do projeto
+# :pushpin: Formação
 - `Formação` Front End
 - `Formação` HTML e CSS
+
+# :pushpin: Cursos
+- `Curso ` HTML5 e CSS3 parte 1 - A primeira página da Web
+- `Curso ` HTML e CSS parte 2 - Posicionamento, listas e navegação
+- `Curso ` HTML e CSS parte 3 - Trabalhando com formulários e tabelas
+- `Curso ` HTML e CSS parte 4 - Avançando no CSS
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Plataforma Barbearia Alura
