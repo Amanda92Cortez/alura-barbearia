@@ -5,8 +5,8 @@
 <h1>Alura Barbearia</h1>
 
 # :pushpin: Formação
-- `Formação` Front End
-- `Formação` HTML e CSS
+- `Formação ` Front End
+- `Formação ` HTML e CSS
 
 # :pushpin: Cursos
 - `Curso ` HTML5 e CSS3 parte 1 - A primeira página da Web
@@ -15,7 +15,7 @@
 - `Curso ` HTML e CSS parte 4 - Avançando no CSS
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Plataforma Barbearia Alura
+- `Funcionalidade ` Plataforma Barbearia Alura
 
 # :bookmark_tabs: Tecnologias
 
@@ -24,7 +24,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/Alura_Barbearia.git
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/Alura_Barbearia.git
 
 ## 📚Telas/Vídeos
 https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-8556-bf6500e6c576.mp4
