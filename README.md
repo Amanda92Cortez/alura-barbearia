@@ -4,7 +4,7 @@
 
 <h1>Alura Barbearia</h1>
 
-# :pushpin: Formação
+# :pushpin: Formações
 - `Formação ` Front End
 - `Formação ` HTML e CSS
 
