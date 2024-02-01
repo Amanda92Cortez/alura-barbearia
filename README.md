@@ -45,7 +45,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/Alura_Barbearia.git
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-barbearia.git
 
 ## 📚Telas/Vídeos
 https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-8556-bf6500e6c576.mp4
