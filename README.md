@@ -29,9 +29,3 @@ Baixar projeto:
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-barbearia.git
 Após baixar o projeto, você pode abrir com o **VSCode**. 
 - Clicar na parte de inferior e clicar Go Live (Live Server)
-
-
-## 🔎 Observações
-- [ ] Revisar vídeo
-- [ ] Ajustar a ideia
-- [ ] Finalizado
