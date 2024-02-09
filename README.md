@@ -4,7 +4,7 @@
 App de ambiente Barbearia Alura
 
 ## 🔨 Funcionalidades do projeto
-O App ........
+O App utilizando a comunicação de iframe com youtube, comunicação entre web da Barbearia
 
 ## :bookmark_tabs: Técnicas e tecnologias utilizadas
 As técnicas e tecnologias utilizadas pra isso são:
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-
 
 
 ## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github. XXXXXXXXXXX) ou [baixá-lo](https://github. XXXXXXXX .zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-barbearia) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-barbearia/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 Baixar projeto:
