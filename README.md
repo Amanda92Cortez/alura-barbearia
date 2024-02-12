@@ -20,10 +20,6 @@ https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/aab6f5e1-1d74-4f3b-b098-082abe86fd5d)
 
-
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-barbearia) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-barbearia/archive/refs/heads/main.zip).
-
 ## 🛠️ Abrir e rodar o projeto
 Baixar projeto:
 - ` Baixar projeto ` Utiliza seguinte comando: git clone https://github.com/Amanda92Cortez/alura-barbearia.git
