@@ -1,30 +1,61 @@
-<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
+<div align="center">
+  <h1 align="center">
+    Barbearia
+    <br />
+    <br />
+    <img src="img/image_06.gif" alt="Gif">
+    <br />
+  </h1>
 
-# Barbearia
-App de ambiente Barbearia Alura
+  <h2> 
+  
+  :construction: Projeto em construção :construction:
+  </h2>
+</div>
 
-## 🔨 Funcionalidades do projeto
-O App utilizando a comunicação de iframe com youtube, comunicação entre web da Barbearia
 
-## :bookmark_tabs: Técnicas e tecnologias utilizadas
-As técnicas e tecnologias utilizadas pra isso são:
+---
 
-![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# :file_folder: Índice 
 
-## 🎯 Desafio
-Tela de detalhes
-https://user-images.githubusercontent.com/19363871/155180012-aeb51f90-8d1d-446f-8556-bf6500e6c576.mp4
+- [Descrição do Projeto](#id01)
+- [Ferramentas](#id02)
+- [Desafio](#id04)
+- [Instalação](#id03)
 
-## 📚Telas/Vídeos
-![image](https://github.com/Amanda92Cortez/alura-barbearia/assets/19363871/aab6f5e1-1d74-4f3b-b098-082abe86fd5d)
+---
 
-## 🛠️ Abrir e rodar o projeto
-Baixar projeto:
-- ` Baixar projeto ` Utiliza seguinte comando: git clone https://github.com/Amanda92Cortez/alura-barbearia.git
-- ` Executar projeto ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+# :pushpin: Descrição do Projeto <a name="id01"></a>
+O App utilizando a comunicação de iframe com youtube, comunicação entre web da Barbearia.
 
-## 🔎 Observações
-- [ ] Gif rápido
-- [ ] Finalizado
+---
+
+# :computer: Ferramentas<a name="id02"></a>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</div>
+
+---
+
+# 🎯 Desafio <a name="id04"></a>
+<img src="img/barbearia.gif" alt="Gif">
+
+
+---
+# 🗂 Instalações <a name="id03"></a>
+#### Baixar Projeto e instalações
+```bash
+    # Clonar o repositório
+    $ git clone https://github.com/Amanda92Cortez/alura-barbearia.git
+
+    # Entrar no diretório
+    $ cd nomePasta
+
+    # Executar projeto
+    # No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+```
+---
+
+Feito pela Amanda Cortez 👋🏽 [Acesse meu linkedin!](www.linkedin.com/in/amandacortez92)
