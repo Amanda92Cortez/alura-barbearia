@@ -30,6 +30,7 @@ O App utilizando a comunicação de iframe com youtube, comunicação entre web 
 
 ---
 `Formação:` Oracle ONE: Front-end (Ano 2020)
+
 ` Curso: ` Alura - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (HTML5 e CSS3 parte 1: crie uma página da Web)
 
 ` Curso: ` Alura - HTML e CSS: Classes, posicionamento e Flexbox (HTML5 e CSS3 parte 2: posicionamento, listas e navegação)
