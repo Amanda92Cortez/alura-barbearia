@@ -29,6 +29,14 @@
 O App utilizando a comunicação de iframe com youtube, comunicação entre web da Barbearia.
 
 ---
+`Formação:` Oracle ONE: Front-end (Ano 2020)
+` Curso: ` [Alura - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (HTML5 e CSS3 parte 1: crie uma página da Web)]("https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags")
+` Curso: ` [Alura - HTML e CSS: Classes, posicionamento e Flexbox (HTML5 e CSS3 parte 2: posicionamento, listas e navegação)]("https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox")
+` Curso: ` [Alura - HTML e CSS: cabeçalho, footer e variáveis CSS (HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas)]("https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css")
+` Curso: ` [Alura - HTML e CSS: trabalhando com responsividade e publicação de projetos (HTML5 e CSS3 parte 4: avançando no CSS)]("https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos")
+
+
+---
 
 # :computer: Ferramentas<a name="id02"></a>
 
